@@ -1,0 +1,29 @@
+.sidebar__chat {
+  background-color: #131c21;
+  border-bottom: 1px solid #a0a2a5;
+  display: flex;
+  align-items: center;
+  height: 70px;
+}
+.chat__details {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-left: 8px;
+}
+.chat__avatar {
+  padding: 15px;
+}
+.sidebar__chat__username {
+  color: #d9dadb;
+  font-size: 18px;
+  margin-bottom: 2px;
+}
+.sidebar__chat__message {
+  color: #d9dadb;
+  font-size: 12px;
+}
+.sidebar__chat__time {
+  color: #d9dadb;
+  font-size: 12px;
+}

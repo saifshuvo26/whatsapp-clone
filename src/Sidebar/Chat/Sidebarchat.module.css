@@ -4,6 +4,10 @@
   display: flex;
   align-items: center;
   height: 70px;
+  cursor: pointer;
+}
+.sidebar__chat:hover {
+  background-color: #2d3134;
 }
 .chat__details {
   display: flex;
